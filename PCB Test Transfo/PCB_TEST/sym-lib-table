@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/Transformateurs.pretty/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "NTM")(type "KiCad")(uri "${KIPRJMOD}/NTM.kicad_sym")(options "")(descr ""))
+)

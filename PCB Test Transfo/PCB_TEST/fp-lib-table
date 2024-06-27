@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Transformateurs")(type "KiCad")(uri "${KIPRJMOD}/Transformateurs.pretty")(options "")(descr ""))
+  (lib (name "connecteur")(type "KiCad")(uri "${KIPRJMOD}/connecteur.pretty")(options "")(descr ""))
+)
